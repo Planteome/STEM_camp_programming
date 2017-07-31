@@ -1,9 +1,6 @@
 # STEM_camp_programming
 A place to house the ipython notebooks/jupyter notebooks that we will use to introduce biocomputing and bioinformatics to STEM camp attendees.
 
-# STEM_camp_programming
-A place to house the ipython notebooks/jupyter notebooks that we will use to introduce biocomputing and bioinformatics to STEM camp attendees.
-
 ## Session 1: Day 1 (11a-12p)
 The purpose of programming for biology; 
     code outline; 
